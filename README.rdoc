@@ -1,4 +1,4 @@
-== Alpha-Blog
+== Alpha-Blog {<img src="https://travis-ci.org/RyanGoslingsBugle/alpha-blog.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/RyanGoslingsBugle/alpha-blog]
 
 Simple blog template for Complete Ruby on Rails Developer course.
 
