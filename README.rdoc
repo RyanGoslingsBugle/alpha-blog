@@ -1,10 +1,10 @@
-# Alpha-Blog
+== Alpha-Blog
 
 Simple blog template for Complete Ruby on Rails Developer course.
 
 Not intended for production use, or for any use other than educational for that matter.
 
-## Install
+=== Install
 
 To install:
 
