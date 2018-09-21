@@ -1,28 +1,14 @@
-== README
+# Alpha-Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple blog template for Complete Ruby on Rails Developer course.
 
-Things you may want to cover:
+Not intended for production use, or for any use other than educational for that matter.
 
-* Ruby version
+## Install
 
-* System dependencies
+To install:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Clone the repo
+* Run `bundle install`
+* Setup the db `rake db:drop db:create db:migrate`
+* Run the server `rails s --binding=YOUR_IP_ADDRESS`
