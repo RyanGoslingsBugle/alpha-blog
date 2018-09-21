@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+ruby "~> 2.3.0"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.10'
@@ -31,7 +31,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 group :production do
-  gem 'pg'
+  gem 'pg', '~> 1.1.3'
   gem 'rails_12factor'
 end
 
