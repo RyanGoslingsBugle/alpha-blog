@@ -9,6 +9,6 @@ Not intended for production use, or for any use other than educational for that 
 To install:
 
 * Clone the repo
-* Run +bundle install+
-* Setup the db +rake db:drop db:create db:migrate+
-* Run the server +rails s --binding=YOUR_IP_ADDRESS+
+* Run <code>bundle install</code>
+* Setup the db <code>rake db:drop db:create db:migrate</code>
+* Run the server <code>rails s --binding=YOUR_IP_ADDRESS</code>
